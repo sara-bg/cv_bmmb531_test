@@ -4,7 +4,7 @@
 **Email:** svb6726@psu.edu  
 **Address:** 532 E College Ave., State College, PA 16801  
 
-![headshot](profil photo.jpg)
+![headshot](headshot.jpg)
 
 ---
 
@@ -13,7 +13,7 @@
 **Pennsylvania State University, State College, PA**  
 *Expected 2030*
 
-- PhD Candidate in Chemistry
+- PhD Candidate in Chemistry under Dr. Carly Schissel
 
 **Saint Francis University (SFU), Loretto, PA**  
 *May 2025*

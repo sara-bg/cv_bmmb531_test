@@ -8,7 +8,7 @@
 
 ---
 
-## $${\color{lightblue}Education}$$
+## `$${\color{lightblue}Education}$$`
 
 **Pennsylvania State University, State College, PA**  
 *Expected 2030*

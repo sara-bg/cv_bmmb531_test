@@ -8,7 +8,7 @@
 
 ---
 
-## `Education`
+## Education
 
 **Pennsylvania State University, State College, PA**  
 *Expected 2030*
@@ -25,7 +25,7 @@
 
 ## Qualifications
 
-### Laboratory Skills
+### *Laboratory Skills*
 Cyclic Voltammetry; Spectroscopy (UV-Vis, ¹H NMR, FTIR, Flame AA, GFAAS); Chromatography (Ion-exchange, Affinity, GC, HPLC); Streaking; Western Blot; Gel Electrophoresis; SDS-PAGE; Dialysis; Protein Assaying; Ultra- and Microcentrifugation  
 
 ### Computer Skills

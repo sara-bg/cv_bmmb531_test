@@ -4,17 +4,21 @@
 **Email:** svb6726@psu.edu  
 **Address:** 532 E College Ave., State College, PA 16801  
 
-![npy](imagehttps://pubchem.ncbi.nlm.nih.gov/compound/Neuropeptide-Y-_26-36.png)
+![headshot](profil photo.jpg)
 
 ---
 
 ## Education
 
-**Saint Francis University (SFU), Loretto, PA**  
-*Expected May 2025*
+**Pennsylvania State University, State College, PA**  
+*Expected 2030*
 
-- Bachelor of Science in Biochemistry (ACS Certification) — GPA: 3.95/4.00  
-- Bachelor of Science in Chemistry (ACS Certification)  
+- PhD Candidate in Chemistry
+
+**Saint Francis University (SFU), Loretto, PA**  
+*May 2025*
+
+- Bachelor of Science in Biochemistry and Chemistry (ACS Certification) — GPA: 3.95/4.00  
 - Minor in Biology and Mathematics  
 
 ---
@@ -30,25 +34,6 @@ Microsoft Word, Excel, PowerPoint; MATLAB (function analysis); Python (basic pro
 ### Languages
 - Spanish (Fluent)  
 - English (Fluent)  
-
----
-
-## Relevant Coursework
-
-- Calculus I–IV  
-- General Physics I & II (with lab)  
-- Organic Chemistry I & II (with lab)  
-- Quantitative Chemical Analysis (with lab)  
-- Cell and Molecular Biology (with lab)  
-- Biochemistry I (with lab)  
-- Physical Chemistry I (with lab)  
-- Genetics (with lab)  
-- Instrumental Analysis (with lab)  
-- Discrete Mathematics  
-- Undergraduate Research  
-
-**Fall 2024:** Inorganic Chemistry (with lab), Forensic Chemistry, Immunology  
-**Spring 2025:** Biochemistry II (with lab), Physical Chemistry II (with lab), Mathematical Modeling  
 
 ---
 
@@ -77,7 +62,7 @@ Microsoft Word, Excel, PowerPoint; MATLAB (function analysis); Python (basic pro
 
 ---
 
-## Internship Experience
+## Work Experience
 
 ### Laboratory Assistant Intern  
 **Atlántica Agrícola, Villena, Spain**  
@@ -86,17 +71,13 @@ Microsoft Word, Excel, PowerPoint; MATLAB (function analysis); Python (basic pro
 - Optimized growth media for micro- and macroalgae and evaluated incorporation into bio-stimulants and fertilizers  
 - Assisted with calibrations, product and raw material stability testing, microbial compatibility testing, and sterilization procedures  
 
----
-
-## Work Experience
-
 ### Game Assistant  
-*May 2022 – Present*
+*May 2022 – May 2025*
 
 - Supported softball, football, and soccer games as ball-picker, parking assistant, and ticket vendor  
 
 ### Academic Tutor  
-*September 2022 – Present*
+*September 2022 – May 2025*
 
 - Tutor for General Chemistry I & II, Calculus I & II, Beginning and Intermediate Spanish  
 
@@ -105,20 +86,20 @@ Microsoft Word, Excel, PowerPoint; MATLAB (function analysis); Python (basic pro
 ## Leadership & Involvement
 
 ### Saint Francis University Division I Swimming Team  
-*August 2021 – Present*
+*August 2021 – May 2025*
 
 - Participate in ten practices per week and ~11 meets per season, including Conference Championships  
 - Promote resilience and team motivation following competitive setbacks  
 
 ### Student-Athlete Mentor  
-*August 2023 – Present*
+*August 2023 – May 2025*
 
 - Provide weekly mentorship to first-year student-athletes  
 - Assist in organizing community engagement events  
 - Promoted to leadership position in Fall 2024  
 
 ### Chemistry Club  
-Active Member | August 2021 – Present  
+Active Member | August 2021 – May 2025  
 
 ---
 
@@ -130,6 +111,7 @@ Active Member | August 2021 – Present
 - Dean’s List — Spring 2023, Fall 2023  
 - Gamma Sigma Epsilon Chemistry Honor Society (2023)  
 - Kappa Mu Epsilon Mathematics Honor Society (2023)  
+- Chemistry Senior Award (2025)
 
 ---
 

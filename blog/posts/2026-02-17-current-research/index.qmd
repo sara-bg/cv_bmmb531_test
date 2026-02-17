@@ -1,0 +1,11 @@
+---
+title: "Current Research"
+author: "Sara Blanco Gómez"
+date: "2026-02-17"
+categories: [research, peptides, neuroscience]
+description: "My current research on peptide design for blood-brain barrier penetration"
+---
+
+## Current Research
+
+Design of peptides for blood-brain barrier (BBB) penetration, based on key structural features of neuropeptide Y, for drug delivery and therapeutic purposes.

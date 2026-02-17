@@ -4,8 +4,6 @@ page-layout: full
 toc: false
 ---
 
-# Sara Blanco Gómez
-
 **Phone:** (469) 514-1171  
 **Email:** svb6726@psu.edu  
 **Address:** 532 E College Ave., State College, PA 16801  

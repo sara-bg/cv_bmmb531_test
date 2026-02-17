@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Sara Blanco Gómez"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/sara-blanco
+        aria-label: GitHub
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

@@ -1,0 +1,108 @@
+---
+title: "Creating My Academic Website with Quarto"
+author: "Sara Blanco Gómez"
+date: "2026-02-17"
+categories: [quarto, website, tutorial]
+description: "How I built this website using Quarto and deployed it to GitHub Pages"
+---
+
+## Introduction
+
+I recently created this website to showcase my CV and share updates about my research and experiences. I chose Quarto because it's a powerful, modern publishing system that makes it easy to create beautiful websites with minimal configuration.
+
+## Why Quarto?
+
+Quarto is an open-source scientific and technical publishing system that:
+
+- Supports multiple formats (websites, books, presentations, articles)
+- Works seamlessly with Markdown
+- Integrates with GitHub Pages for easy deployment
+- Provides built-in blog functionality
+- Offers beautiful, responsive themes out of the box
+
+## Setting Up the Website
+
+### 1. Installing Quarto
+
+First, I installed Quarto on my development environment:
+
+```bash
+wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.39/quarto-1.6.39-linux-amd64.deb
+sudo dpkg -i quarto-1.6.39-linux-amd64.deb
+```
+
+### 2. Project Structure
+
+I organized my website with the following structure:
+
+```
+.
+├── _quarto.yml          # Main configuration file
+├── index.qmd            # CV/Home page
+├── blog/
+│   ├── index.qmd        # Blog listing page
+│   └── posts/           # Individual blog posts
+├── headshot.jpg         # Profile photo
+└── .github/
+    └── workflows/
+        └── publish.yml  # GitHub Actions deployment
+```
+
+### 3. Configuration
+
+The `_quarto.yml` file defines the website structure, navigation, and styling. I configured it to have:
+
+- A home page featuring my CV
+- A blog section with automatic post listing
+- Navigation bar with links to both sections
+- A clean, professional theme (Cosmo)
+
+### 4. Converting My CV
+
+I converted my existing CV from Markdown to Quarto format by:
+
+1. Renaming `index.md` to `index.qmd`
+2. Adding YAML front matter with page configuration
+3. Keeping all the existing Markdown content
+
+### 5. Setting Up the Blog
+
+The blog functionality in Quarto is straightforward:
+
+- Create a `blog/index.qmd` file with a listing configuration
+- Each blog post goes in its own folder under `blog/posts/`
+- Posts are automatically sorted by date and displayed on the blog page
+
+### 6. GitHub Actions Deployment
+
+To automatically deploy the site to GitHub Pages whenever I push changes, I created a GitHub Actions workflow that:
+
+1. Checks out the repository
+2. Sets up Quarto
+3. Renders the website
+4. Deploys the output to GitHub Pages
+
+## Results
+
+The result is a clean, professional website that:
+
+- Displays my CV prominently on the home page
+- Provides a dedicated blog section for updates and articles
+- Automatically deploys whenever I push changes to GitHub
+- Works perfectly on mobile and desktop devices
+
+## Next Steps
+
+Moving forward, I plan to:
+
+- Add more blog posts about my research
+- Include project portfolios
+- Potentially add interactive visualizations using Quarto's computational notebook features
+
+If you're considering creating your own academic website, I highly recommend Quarto. It's powerful yet simple, and the documentation is excellent!
+
+## Resources
+
+- [Quarto Website](https://quarto.org)
+- [Quarto Documentation](https://quarto.org/docs/guide/)
+- [My GitHub Repository](https://github.com/sara-blanco/cv_bmmb531_test)

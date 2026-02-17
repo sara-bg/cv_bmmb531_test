@@ -1,0 +1,34 @@
+/* Custom styles for the website */
+
+.quarto-title-banner {
+  background-color: #2780e3;
+}
+
+img {
+  max-width: 250px;
+  border-radius: 50%;
+  display: block;
+  margin: 20px auto;
+}
+
+/* Make CV sections more readable */
+h2 {
+  color: #2780e3;
+  border-bottom: 2px solid #2780e3;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+h3 {
+  color: #555;
+  margin-top: 20px;
+}
+
+/* Improve spacing */
+p {
+  line-height: 1.6;
+}
+
+ul {
+  line-height: 1.8;
+}

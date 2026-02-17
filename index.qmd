@@ -8,7 +8,7 @@ toc: false
 **Email:** svb6726@psu.edu  
 **Address:** 532 E College Ave., State College, PA 16801  
 
-![headshot](headshot.jpg)
+![](headshot.jpg)
 
 ---
 

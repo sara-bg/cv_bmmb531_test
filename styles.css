@@ -1,7 +1,7 @@
 /* Custom styles for the website */
 
 body, #quarto-content, .page-layout-article {
-  background-color: #F0F8FF !important;
+  background-color: #EEF6FF !important;
 }
 
 .quarto-title-banner {
@@ -21,8 +21,8 @@ h1, h4, h5, h6 {
 }
 
 h2 {
-  color: #1a3a8f;
-  border-bottom: 2px solid #1a3a8f;
+  color: #0047AB;
+  border-bottom: 2px solid #0047AB;
   padding-bottom: 5px;
   margin-top: 30px;
 }

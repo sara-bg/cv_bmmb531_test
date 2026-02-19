@@ -1,5 +1,9 @@
 /* Custom styles for the website */
 
+body {
+  background-color: #e8f4f8;
+}
+
 .quarto-title-banner {
   background-color: #2780e3;
 }
@@ -12,6 +16,10 @@ img {
 }
 
 /* Make CV sections more readable */
+h1, h4, h5, h6 {
+  color: #000;
+}
+
 h2 {
   color: #2780e3;
   border-bottom: 2px solid #2780e3;
@@ -20,7 +28,7 @@ h2 {
 }
 
 h3 {
-  color: #555;
+  color: #000;
   margin-top: 20px;
 }
 
